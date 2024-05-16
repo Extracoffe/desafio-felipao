@@ -1,2 +1,2 @@
-let nome = "felipe";
-console.log("ola mundao");
+let nomeHerpi = "Ronaldo";
+let XP = 0
